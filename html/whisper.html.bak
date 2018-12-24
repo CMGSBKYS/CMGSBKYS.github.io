@@ -46,14 +46,21 @@
   <div class="content whisper-content">
     <div class="cont">
       <div class="whisper-list">
-        <div class="item-box">
-          <div class="item">
-            <div class="whisper-title">
+        <div class="content">
+    <div class="cont w1000">
+      <div class="title">
+
+
+
 
             <span class="layui-breadcrumb" lay-separator="|">
 			 <a href="https://cmgsbkys.github.io/whale" class="active">企业管控</a>
             </span>   
-			
+		</div>
+	</div>
+</div>
+
+
             </div>
             <p class="text-cont">
               略略略
